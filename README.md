@@ -1,6 +1,8 @@
 # 💫 About Me:
 Boleh Ambil Script Tapi jagan di jual.<br>Jagan Lupa kasih credits<br>@ms-nicky
 
+<div align="center"><img src="https://iili.io/2Zpjtlp.jpg"></div>
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@ms-nicky) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicky_store604) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nonname511) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ms-Xploiter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n0nn4me76@gmail.com) 

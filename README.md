@@ -1,7 +1,7 @@
 # 💫 About Me:
 Boleh Ambil Script Tapi jagan di jual.<br>Jagan Lupa kasih credits<br>@ms-nicky
 
-<div align="center"><img src="https://iili.io/2Zpjtlp.jpg"></div>
+<div align="center"><img src="https://files.catbox.moe/eibbdm.jpg"></div>
 
 
 ## 🌐 Socials:

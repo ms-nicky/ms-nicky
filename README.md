@@ -59,8 +59,6 @@ You are welcome to use my scripts for learning and personal projects.
 ## Connect
 
 - Email: [nesfnicky@gmail.com](mailto:nesfnicky@gmail.com)
-- Telegram: [@MsXploiter](https://t.me/MsXploiter)
-- Instagram: [@mn_nicky](https://www.instagram.com/mn_nicky)
 - YouTube: [@M-NICKY](https://youtube.com/@M-NICKY)
 - TikTok: [@qp.lucifer](https://tiktok.com/@qp.lucifer)
 

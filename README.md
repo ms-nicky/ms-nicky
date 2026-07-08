@@ -79,17 +79,12 @@ Utilities and tools designed to improve development workflows and productivity.
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ms-nicky&theme=algolia&no-frame=true&margin-w=8&row=1" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ms-nicky&show_icons=true&include_all_commits=false&count_private=true&theme=dark#gh-dark-mode-only" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ms-nicky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-nicky&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ms-nicky&theme=tokyonight&hide_border=true" />
-</p>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ms-nicky&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" />
+  </p>
 
 ---
 
